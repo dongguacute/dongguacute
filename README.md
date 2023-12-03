@@ -12,6 +12,6 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donggua&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=donggua&show_icons=true&theme=dark&count_private=true)
 ![](https://stats.justsong.cn/api/csdn?id=donggua&theme=dark)
-![](https://stats.justsong.cn/api/bilibili/?id=1513364019&theme=dark)
+![](https://stats.justsong.cn/api/bilibili/?id=1486590453&theme=dark)
 ![](https://activity-graph.herokuapp.com/graph?username=dongguacute&theme=github)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dongguacute&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)

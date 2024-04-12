@@ -4,6 +4,8 @@
 
 Hello everyone, my name is Donggua. I am a 14-year-old junior high school student, mtf🏳️‍⚧️, born on August 30, 2010. I like to write programs and am good at c++ and python. I can also write microcontroller programs and webpage programs. I like to buy good-looking products. clothes, like jk uniforms, Gudupao Spark Studio member, suffers from bipolar disorder, severe depression, severe anxiety, may not be optimistic sometimes, hope to get better in the future
 
+![Image text]([https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png](https://pic.imgdb.cn/item/6619318368eb935713c2b612.gif))
+
 
 🧋My GitHub statistics
 

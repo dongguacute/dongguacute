@@ -16,6 +16,7 @@ DongguaBlog:blog.dongguact.top
 💻My work electronics
 
 Redmi Note 12 Pro
+
 Macbook Pro 14 2021
 
 [![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@dongguacute)

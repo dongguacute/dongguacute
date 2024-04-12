@@ -4,17 +4,19 @@
 
 Hello everyone, my name is Donggua. I am a 14-year-old junior high school student, mtf🏳️‍⚧️, born on August 30, 2010. I like to write programs and am good at c++ and python. I can also write microcontroller programs and webpage programs. I like to buy good-looking products. clothes, like jk uniforms, Gudupao Spark Studio member, suffers from bipolar disorder, severe depression, severe anxiety, may not be optimistic sometimes, hope to get better in the future
 
-![Image text](https://pic.imgdb.cn/item/6619318368eb935713c2b612.gif)
-
-
 
 🧋My GitHub statistics
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongguacute)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongguacute)](https://github.com/anuraghazra/github-readme-stats)
 
 📔My blog site
 
-  DongguaBlog:blog.dongguact.top
+DongguaBlog:blog.dongguact.top
+
+💻My work electronics
+
+Redmi Note 12 Pro
+Macbook Pro 14 2021
 
 [![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@dongguacute)
 [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter)](https://twitter.com/Dongguacute)

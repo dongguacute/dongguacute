@@ -20,6 +20,6 @@ Redmi Note 12 Pro
 Macbook Pro 14 2021
 
 [![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@dongguacute)
-[![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter)](https://twitter.com/Dongguacute)
+[![X](https://img.shields.io/badge/Twitter-black?logo=x)](https://twitter.com/Dongguacute)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/Dongguacute)
 [![Instagram](https://img.shields.io/badge/instagram-white?logo=instagram)](https://www.instagram.com/dongguacute)

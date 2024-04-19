@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
-Hello everyone, my name is Donggua. I am a 14-year-old junior high school student,born on August 30, 2010. I like to write programs and am good at c++ and python. I can also write microcontroller programs and webpage programs. I like to buy good-looking products. clothes, like jk uniforms, Gudupao Spark Studio member, suffers from bipolar disorder, severe depression, severe anxiety, may not be optimistic sometimes, hope to get better in the future
+Hello everyone, my name is Donggua. I am a 14-year-old junior high school student,born on August 30, 2010. I like to write programs and i am good at c++ and python. I can also write microcontroller programs and webpage programs. I like to buy good-looking products. clothes, like jk uniforms, Gudupao Spark Studio member, suffers from bipolar disorder, severe depression, severe anxiety, may not be optimistic sometimes, hope to get better in the future
 
 
 🧋My GitHub statistics

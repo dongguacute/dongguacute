@@ -29,4 +29,4 @@
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/Dongguacute)
 [![Instagram](https://img.shields.io/badge/instagram-white?logo=instagram)](https://www.instagram.com/dongguacute)
 
-**Follow us, please!!!**
+**Follow me, please!!!**

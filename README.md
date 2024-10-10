@@ -14,7 +14,6 @@
 
 **DongguaBlog:blog.dongguact.top**
 
-**DongguaXW:xw.dongguact.top**
 
 > ## **💬I can speak**
 

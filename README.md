@@ -12,7 +12,7 @@
 
 > ## **✅My skills**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,vue,vite,py,go,flutter,vscode,figma,arduino,astro,au,cloudflare,docker,electron,git,github,githubactions,linux,md,mongodb,mysql,nextjs,nodejs,nginx,nuxt,ps,pr,sqlite,tailwind,vercel,wordpress,workers,ubuntu,debian,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,blender,bootstrap,cpp,discord,fastapi,gmail,kali,npm,obsidian,qt,pytorch,raspberrypi,stackoverflow,unity,unreal,visualstudio,js,html,css,ts,vue,vite,py,go,flutter,vscode,figma,arduino,astro,au,cloudflare,docker,electron,git,github,githubactions,linux,md,mongodb,mysql,nextjs,nodejs,nginx,nuxt,ps,pr,sqlite,tailwind,vercel,wordpress,workers,ubuntu,debian,bash)](https://skillicons.dev)
 
 > ## **🌈My account**
 

@@ -10,24 +10,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongguacute)](https://github.com/anuraghazra/github-readme-stats)
 
-> ## **📔My blog site**
+> ## **✅My skills**
 
-**DongguaBlog:blog.dongguact.top**
-
-
-> ## **💬I can speak**
-
-**🇨🇳Chinese(simplified/traditional)**
-
-**🇭🇰Cantonese**
-
-**English**
-
-> ## **💻My work electronics**
-
-**Redmi Note 12 Pro**
-
-**Macbook Pro 14 2021**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,vue,vite,py,go,flutter,vscode,figma,arduino,astro,au,cloudflare,docker,electron,git,github,githubactions,linux,md,mongodb,mysql,nextjs,nodejs,nginx,nuxt,ps,pr,sqlite,tailwind,vercel,wordpress,workers,ubuntu,debian,bash)](https://skillicons.dev)
 
 > ## **🌈My account**
 

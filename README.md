@@ -4,7 +4,7 @@
 
 > ## **🧋My GitHub statistics**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongguacute)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongguacute)](https://github-readme-stats.vercel.app/api?username=dongguacute) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact)
 
 
 

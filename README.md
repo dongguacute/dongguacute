@@ -1,6 +1,6 @@
 > ## **📖About me**
 
-**Hello everyone, my name is Cherry. I am a 14-year-old middle school student,born on August 30, 2010. I like to write programs and i am good at c++ and python. I can also write microcontroller programs and webpage programs. I like to buy good-looking products. clothes, Gudupao Spark member, suffers from bipolar disorder, severe depression, severe anxiety, may not be optimistic sometimes, hope to get better in the future**
+**Hello everyone, my name is Cherry. I am a 15-year-old middle school student,born on August 30, 2010. I like to write programs and i am good at c++ and python. I can also write microcontroller programs and webpage programs. I like to buy good-looking products. clothes, Gudupao Spark member, suffers from bipolar disorder, severe depression, severe anxiety, may not be optimistic sometimes, hope to get better in the future**
 
 > ## **🧋My GitHub statistics**
 

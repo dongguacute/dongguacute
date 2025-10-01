@@ -19,7 +19,7 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-white?logo=bilibili)](https://space.bilibili.com/1486590453)
 
 [![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@dongguacute)
-[![X](https://img.shields.io/badge/Twitter-black?logo=x)](https://twitter.com/Dongguacute)
+[![X](https://img.shields.io/badge/Twitter-black?logo=x)](https://x.com/Dongguacute)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/Dongguacute)
 [![Instagram](https://img.shields.io/badge/instagram-white?logo=instagram)](https://www.instagram.com/dongguacute)
 

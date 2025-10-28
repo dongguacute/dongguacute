@@ -23,7 +23,7 @@ so sometimes I may not be very optimistic — but I’m working hard to get bett
 ## 🧠 My GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=1f4f24&icon_color=3b7a57&text_color=2b3a2b&bg_color=dae7cb&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact&theme=tokyonight" height="165"/>
 </p>
 

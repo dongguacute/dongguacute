@@ -22,41 +22,25 @@ so sometimes I may not be very optimistic — but I’m working hard to get bett
 
 ## 🧠 My GitHub Statistics
 
-<p align="center">
-  <!-- 使用表格布局让两张卡片左右并排 -->
-  <table>
-    <tr>
-      <td>
-        <!-- 浅色模式（柔和麦当劳红） -->
-        <source media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=FFC72C&icon_color=FFC72C&text_color=FFFFFF&bg_color=E43D30&hide_border=true">
-        
-        <!-- 深色模式 -->
-        <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=FFC72C&icon_color=E43D30&text_color=FFFFFF&bg_color=1A1A1A&hide_border=true">
-        
-        <!-- 默认图 -->
-        <img alt="GitHub Stats" 
-          src="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=FFC72C&icon_color=FFC72C&text_color=FFFFFF&bg_color=E43D30&hide_border=true" 
-          height="165"/>
-      </td>
 
-      <td>
-        <!-- 浅色模式 -->
-        <source media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=FFC72C&text_color=FFFFFF&bg_color=E43D30&hide_border=true">
-        
-        <!-- 深色模式 -->
-        <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=FFC72C&text_color=FFFFFF&bg_color=1A1A1A&icon_color=E43D30&hide_border=true">
-        
-        <!-- 默认图 -->
-        <img alt="Top Languages" 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=FFC72C&text_color=FFFFFF&bg_color=E43D30&hide_border=true" 
-          height="165"/>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <!-- 浅色模式 -->
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=D92323&icon_color=FFC72C&text_color=3A3A3A&bg_color=FFF8E1&hide_border=true">
+  
+  <!-- 深色模式 -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=FFD85D&icon_color=E84C3D&text_color=FAFAFA&bg_color=2B1B1B&hide_border=true">
+  
+  <!-- 默认图片 -->
+  <img alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=D92323&icon_color=FFC72C&text_color=3A3A3A&bg_color=FFF8E1&hide_border=true" height="165"/>
+
+  <!-- 浅色模式语言卡 -->
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=D92323&text_color=3A3A3A&bg_color=FFF8E1&hide_border=true">
+  
+  <!-- 深色模式语言卡 -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=FFD85D&text_color=FAFAFA&bg_color=2B1B1B&hide_border=true">
+  
+  <!-- 默认图片 -->
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=D92323&text_color=3A3A3A&bg_color=FFF8E1&hide_border=true" height="165"/>
 </p>
 
 

@@ -23,23 +23,33 @@ so sometimes I may not be very optimistic — but I’m working hard to get bett
 ## 🧠 My GitHub Statistics
 
 <p align="center">
-   <!-- 浅色模式 -->
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=1f4f24&icon_color=3b7a57&text_color=2b3a2b&bg_color=dae7cb&hide_border=true">
+  <!-- 浅色模式（麦当劳红底黄字） -->
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=FFC72C&icon_color=FFC72C&text_color=FFFFFF&bg_color=DA291C&hide_border=true">
   
-  <!-- 深色模式 -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=a3be8c&icon_color=88c0d0&text_color=eceff4&bg_color=1e2e20&hide_border=true">
-  
-  <!-- 默认图片（兼容不支持 dark/light 的平台） -->
-  <img alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=1f4f24&icon_color=3b7a57&text_color=2b3a2b&bg_color=dae7cb&hide_border=true" height="165"/>
-  <!-- 浅色模式 -->
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=1f4f24&text_color=2b3a2b&bg_color=dae7cb&hide_border=true">
-  
-  <!-- 深色模式 -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact&theme=tokyonight&hide_border=true">
+  <!-- 深色模式（黑底红黄搭配） -->
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=FFC72C&icon_color=DA291C&text_color=FFFFFF&bg_color=1A1A1A&hide_border=true">
   
   <!-- 默认图片（兼容不支持 dark/light 的平台） -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=1f4f24&text_color=2b3a2b&bg_color=dae7cb&hide_border=true" height="165"/>
+  <img alt="GitHub Stats" 
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=FFC72C&icon_color=FFC72C&text_color=FFFFFF&bg_color=DA291C&hide_border=true" 
+    height="165"/>
+
+  <!-- 浅色模式（语言卡片） -->
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=FFC72C&text_color=FFFFFF&bg_color=DA291C&hide_border=true">
+  
+  <!-- 深色模式（语言卡片） -->
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=FFC72C&text_color=FFFFFF&bg_color=1A1A1A&icon_color=DA291C&hide_border=true">
+  
+  <!-- 默认图片 -->
+  <img alt="Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=FFC72C&text_color=FFFFFF&bg_color=DA291C&hide_border=true" 
+    height="165"/>
 </p>
+
 
 ---
 

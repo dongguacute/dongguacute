@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>15-year-old student developer | C++ & Python lover | Dreaming big, learning hard 🌈</b><br>
-  <i>"Code is my language, and creativity is my soul."</i>
+  <i>"Balabababa~"</i>
 </p>
 
 ---

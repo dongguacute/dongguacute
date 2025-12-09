@@ -13,7 +13,7 @@
 I love exploring technology, especially in **C++**, **Python**, and **web development**.  
 I can also write **microcontroller** programs and enjoy tinkering with **hardware and design** 💻  
 
-🩵 Besides programming, I enjoy **buying aesthetic gadgets**, **fashion**, and being part of the **Gudupao Spark community** ✨  
+🩵 Besides programming, I enjoy **buying aesthetic gadgets**, **fashion**, and being part of the **Gudupao Spark** ✨  
 
 🕊️ I have **bipolar disorder**, **severe depression**, and **anxiety**,  
 so sometimes I may not be very optimistic — but I’m working hard to get better 💪💙  

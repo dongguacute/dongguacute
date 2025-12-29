@@ -79,6 +79,29 @@ so sometimes I may not be very optimistic — but I’m working hard to get bett
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dongguacute&repo=Additional-Miniplayer-Extension&theme=dark" />
 </a>
 
+
+<!-- Light mode -->
+<a href="https://github.com/GudupaoSpark/Astro-i18n#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GudupaoSpark&repo=Astro-i18n&theme=default" />
+</a>
+
+<!-- Dark mode -->
+<a href="https://github.com/GudupaoSpark/Astro-i18n#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GudupaoSpark&repo=Astro-i18n&theme=dark" />
+</a>
+
+
+<!-- Light mode -->
+<a href="https://github.com/dongguacute/yuanshen#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dongguacute&repo=yuanshen&theme=default" />
+</a>
+
+<!-- Dark mode -->
+<a href="https://github.com/dongguacute/yuanshen#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dongguacute&repo=yuanshen&theme=dark" />
+</a>
+
+
 ---
 
 <p align="center">

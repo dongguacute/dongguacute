@@ -56,33 +56,6 @@ so sometimes I may not be very optimistic — but I’m working hard to get bett
 
 ---
 
-## 🚧 My Projects
-
-<!-- Light mode -->
-<a href="https://github.com/OpenBioCard/OpenBioCard#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenBioCard&repo=OpenBioCard&theme=default" />
-</a>
-
-<!-- Dark mode -->
-<a href="https://github.com/OpenBioCard/OpenBioCard#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenBioCard&repo=OpenBioCard&theme=dark" />
-</a>
-
-
-<!-- Light mode -->
-<a href="https://github.com/dongguacute/Additional-Miniplayer-Extension#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dongguacute&repo=Additional-Miniplayer-Extension&theme=default" />
-</a>
-
-<!-- Dark mode -->
-<a href="https://github.com/dongguacute/Additional-Miniplayer-Extension#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dongguacute&repo=Additional-Miniplayer-Extension&theme=dark" />
-</a>
-
-
-
----
-
 <p align="center">
   <b>⭐️ If you like my work, don’t forget to follow me! ⭐️</b>
 </p>

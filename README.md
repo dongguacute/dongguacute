@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-👋 Hello! I'm **Cherry**, born on **August 30, 2010**, currently a **middle school student**.  
+👋 Hello! I'm **Cherry**, born in **2010**, currently a **middle school student**.  
 I love exploring technology, especially in **C++**, **Python**, and **web development**.  
 I can also write **microcontroller** programs and enjoy tinkering with **hardware and design** 💻  
 

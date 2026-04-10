@@ -44,7 +44,7 @@
 ## 📊 Leveling Up
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&title_color=FF85A1&icon_color=FFB7C5&text_color=7F7F7F&bg_color=FFF5F7&hide_border=true&border_radius=20" height="165"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=FF85A1&icon_color=FFB7C5&text_color=7F7F7F&bg_color=FFF5F7&hide_border=true&border_radius=20" height="165"/>
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=FF85A1&text_color=7F7F7F&bg_color=FFF5F7&hide_border=true&border_radius=20" height="165"/>
 </p>
 

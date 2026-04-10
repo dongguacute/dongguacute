@@ -63,6 +63,12 @@
   <a href="https://x.com/CherryCuteGS">
     <img src="https://img.shields.io/badge/x-181717?style=for-the-badge&logo=X&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@dongguacute">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://space.bilibili.com/1486590453">
+    <img src="https://img.shields.io/badge/Bilibili-fb7299?style=for-the-badge&logo=bilibili&logoColor=white" />
+  </a>
 </p>
 
 <div align="center">

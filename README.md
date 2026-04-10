@@ -60,6 +60,9 @@
   <a href="https://github.com/dongguacute">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://x.com/CherryCuteGS">
+    <img src="https://img.shields.io/badge/x-181717?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
 </p>
 
 <div align="center">

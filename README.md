@@ -23,7 +23,7 @@
 🌟 **The Journey**: A 2010-liner middle schooler exploring the endless possibilities of technology!
 - 🍦 **Coding**: Deeply in love with **C++** and **Python**—they are my primary languages for crafting magic.
 - 🤖 **Tinkering**: I enjoy low-level programming for **Microcontrollers** and building hardware projects.
-- 🎨 **Lifestyle**: I have a passion for **Aesthetic Design**, **Fashion**, and being a part of **Gudupao Spark Inc**.
+- 🎨 **Lifestyle**: I have a passion for **Aesthetic Design**, **Fashion**.
 
 > [!IMPORTANT]
 > 🕊️ **A Gentle Note**: 

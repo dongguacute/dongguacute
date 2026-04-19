@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=220&section=header&text=✨%20Cherry's%20Home%20✨&fontSize=60&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A8E6CF&height=220&section=header&text=✨%20Cherry's%20Home%20✨&fontSize=60&animation=fadeIn&fontAlignY=38" width="100%" />
 
 # 🎀 ૮ ˶ᵔ ᵕ ᵔ˶ ა Welcome to my World! 🍒
 

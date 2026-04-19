@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A8E6CF&height=220&section=header&text=✨%20Cherry's%20Home%20✨&fontSize=60&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E6FFF4&height=220&section=header&text=✨%20Cherry's%20Home%20✨&fontSize=60&animation=fadeIn&fontAlignY=38" width="100%" />
 
-# 🎀 ૮ ˶ᵔ ᵕ ᵔ˶ ა Welcome to my World! 🍒
+# 🎀 ૮ ˶ᵔ ᵕ ᵔ˶ ა Welcome to my World! 🍃
 
 **15-year-old Student Dev | C++ & Python Lover | Dreaming in Code**
 
 「 *Collecting stardust and writing scripts. Balabababa~* 🎵 」
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-15-ffb7c5?style=for-the-badge&logo=cakephp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Class-Student%20Dev-9cf?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Evolving-D8BFD8?style=for-the-badge&logo=kawaii&logoColor=white" />
+  <img src="https://img.shields.io/badge/Age-15-CDF7E3?style=for-the-badge&logo=cakephp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Class-Student%20Dev-BEF3DA?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Evolving-DFFCF1?style=for-the-badge&logo=kawaii&logoColor=white" />
 </p>
 
 </div>
@@ -21,13 +21,13 @@
 ## ☁️ 🪄 About Me
 
 🌟 **The Journey**: A 2010-liner middle schooler exploring the endless possibilities of technology!
-- 🍦 **Coding**: Deeply in love with **C++** and **Python**—they are my primary languages for crafting magic.
+- 🍵 **Coding**: Deeply in love with **C++** and **Python**—they are my primary languages for crafting magic.
 - 🤖 **Tinkering**: I enjoy low-level programming for **Microcontrollers** and building hardware projects.
 - 🎨 **Lifestyle**: I have a passion for **Aesthetic Design**, **Fashion**.
 
 > [!IMPORTANT]
 > 🕊️ **A Gentle Note**: 
-> I am currently navigating life with **Bipolar Disorder**, **Depression**, and **Anxiety**. Some days are harder than others, but I am working my hardest to heal and stay creative. Your kindness and support mean the world to me! 💪💙
+> I am currently navigating life with **Bipolar Disorder**, **Depression**, and **Anxiety**. Some days are harder than others, but I am working my hardest to heal and stay creative. Your kindness and support mean the world to me! 💪💚
 
 ---
 
@@ -44,8 +44,8 @@
 ## 📊 Leveling Up
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=FF85A1&icon_color=FFB7C5&text_color=7F7F7F&bg_color=FFF5F7&hide_border=true&border_radius=20" height="165"/>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=FF85A1&text_color=7F7F7F&bg_color=FFF5F7&hide_border=true&border_radius=20" height="165"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=79C9A8&icon_color=A8E6CF&text_color=6B6B6B&bg_color=F2FFFA&hide_border=true&border_radius=20" height="165"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=79C9A8&text_color=6B6B6B&bg_color=F2FFFA&hide_border=true&border_radius=20" height="165"/>
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://x.com/CherryCuteGS">
-    <img src="https://img.shields.io/badge/x-181717?style=for-the-badge&logo=X&logoColor=white" />
+    <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=X&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@dongguacute">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -72,7 +72,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dongguacute&color=ffb7c5&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=dongguacute&color=A8E6CF&style=flat-square&label=Profile+Views" />
   <br>
   <b>✨ If you like my journey, feel free to follow! ✨</b>
   <br>

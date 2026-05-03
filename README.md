@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E6FFF4&height=220&section=header&text=✨%20Cherry's%20Home%20✨&fontSize=60&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F6F3D6&height=220&section=header&text=✨%20Cherry's%20Home%20✨&fontSize=60&animation=fadeIn&fontAlignY=38&fontColor=2E2E2E" width="100%" />
 
 # 🎀 ૮ ˶ᵔ ᵕ ᵔ˶ ა Welcome to my World! 🍃
 
@@ -9,9 +9,9 @@
 「 *Collecting stardust and writing scripts. Balabababa~* 🎵 」
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-15-CDF7E3?style=for-the-badge&logo=cakephp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Class-Student%20Dev-BEF3DA?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Evolving-DFFCF1?style=for-the-badge&logo=kawaii&logoColor=white" />
+ <img src="https://img.shields.io/badge/Age-15-F6F3D6?style=for-the-badge&logo=cakephp&logoColor=2E2E2E" />
+  <img src="https://img.shields.io/badge/Class-Student%20Dev-F7CFCF?style=for-the-badge&logo=visual-studio-code&logoColor=2E2E2E" />
+  <img src="https://img.shields.io/badge/Status-Evolving-FFFDF5?style=for-the-badge&logo=kawaii&logoColor=2E2E2E" />
 </p>
 
 </div>
@@ -44,9 +44,8 @@
 ## 📊 Leveling Up
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=79C9A8&icon_color=A8E6CF&text_color=6B6B6B&bg_color=F2FFFA&hide_border=true&border_radius=20" height="165"/>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=79C9A8&text_color=6B6B6B&bg_color=F2FFFA&hide_border=true&border_radius=20" height="165"/>
-</p>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=E8AFAF&icon_color=F7CFCF&text_color=2E2E2E&bg_color=FFFDF5&hide_border=true&border_radius=20" height="165"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=E8AFAF&text_color=2E2E2E&bg_color=FFFDF5&hide_border=true&border_radius=20" height="165"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dongguacute/dongguacute/output/github-contribution-grid-snake.svg" alt="snake" />

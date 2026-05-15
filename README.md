@@ -25,10 +25,6 @@
 - 🤖 **Tinkering**: I enjoy low-level programming for **Microcontrollers** and building hardware projects.
 - 🎨 **Lifestyle**: I have a passion for **Aesthetic Design**, **Fashion**.
 
-> [!IMPORTANT]
-> 🕊️ **A Gentle Note**: 
-> I am currently navigating life with **Bipolar Disorder**, **Depression**, and **Anxiety**. Some days are harder than others, but I am working my hardest to heal and stay creative. Your kindness and support mean the world to me! 💪💚
-
 ---
 
 ## 🛠️ My Skill Grimoire

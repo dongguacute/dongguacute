@@ -67,7 +67,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dongguacute&color=A8E6CF&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=dongguacute&color=F6F3D6&style=flat-square&label=Profile+Views" />
   <br>
   <b>✨ If you like my journey, feel free to follow! ✨</b>
   <br>

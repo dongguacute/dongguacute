@@ -1,75 +1,246 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F6F3D6&height=220&section=header&text=✨%20Cherry's%20Home%20✨&fontSize=60&animation=fadeIn&fontAlignY=38&fontColor=2E2E2E" width="100%" />
+<img src="https://github.com/dongguacute.png" width="120"/>
 
-# 🎀 ૮ ˶ᵔ ᵕ ᵔ˶ ა Welcome to my World! 🍃
+# 🍓 Cherry's Digital Garden 🌈
 
-**15-year-old Student Dev | C++ & Python Lover | Dreaming in Code**
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=24&duration=3000&pause=1000&color=F48FB1&center=true&vCenter=true&width=700&lines=Hello!+I'm+Cherry+%F0%9F%8C%B8;Student+Developer+%26+Creator;Building+Dreams+with+Code+%E2%9C%A8;C%2B%2B+%7C+Python+%7C+Web+%7C+Hardware"/>
 
-「 *Collecting stardust and writing scripts. Balabababa~* 🎵 」
+<br>
 
-<p align="center">
- <img src="https://img.shields.io/badge/Age-15-F6F3D6?style=for-the-badge&logo=cakephp&logoColor=2E2E2E" />
-  <img src="https://img.shields.io/badge/Class-Student%20Dev-F7CFCF?style=for-the-badge&logo=visual-studio-code&logoColor=2E2E2E" />
-  <img src="https://img.shields.io/badge/Status-Evolving-FFFDF5?style=for-the-badge&logo=kawaii&logoColor=2E2E2E" />
-</p>
+<img src="https://img.shields.io/badge/🎂%2015%20Years%20Old-FFD86B?style=for-the-badge&labelColor=FFFDF8"/>
+<img src="https://img.shields.io/badge/💻%20Student%20Developer-FFB7C5?style=for-the-badge&labelColor=FFFDF8"/>
+<img src="https://img.shields.io/badge/🌱%20Always%20Learning-DDF5C7?style=for-the-badge&labelColor=FFFDF8"/>
+
+<br><br>
+
+🌸 *"Turning imagination into reality with code."* 🌸
 
 </div>
 
----
-
-## ☁️ 🪄 About Me
-
-🌟 **The Journey**: A 2010-liner middle schooler exploring the endless possibilities of technology!
-- 🍵 **Coding**: Deeply in love with **C++** and **Python**—they are my primary languages for crafting magic.
-- 🤖 **Tinkering**: I enjoy low-level programming for **Microcontrollers** and building hardware projects.
-- 🎨 **Lifestyle**: I have a passion for **Aesthetic Design**, **Fashion**.
 
 ---
-
-## 🛠️ My Skill Grimoire
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,blender,bootstrap,cpp,discord,fastapi,gmail,kali,npm,obsidian,qt,pnpm,postgres,gcp,opencv,java,pytorch,raspberrypi,stackoverflow,unity,unreal,visualstudio,js,html,css,ts,vue,vite,py,go,flutter,vscode,figma,arduino,astro,au,cloudflare,docker,electron,git,github,githubactions,linux,md,mongodb,mysql,nextjs,nodejs,nginx,nuxt,ps,pr,sqlite,tailwind,vercel,wordpress,workers,ubuntu,debian,bash&theme=light" />
-  </a>
+
+## 🌸 About Me
+
 </div>
 
----
-
-## 📊 Leveling Up
-
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=E8AFAF&icon_color=F7CFCF&text_color=2E2E2E&bg_color=FFFDF5&hide_border=true&border_radius=20" height="165"/>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=E8AFAF&text_color=2E2E2E&bg_color=FFFDF5&hide_border=true&border_radius=20" height="165"/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dongguacute/dongguacute/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
-## 💌 Stay in Touch
-
-<p align="center">
-  <a href="https://github.com/dongguacute">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://x.com/CherryCuteGS">
-    <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@dongguacute">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://space.bilibili.com/1486590453">
-    <img src="https://img.shields.io/badge/Bilibili-fb7299?style=for-the-badge&logo=bilibili&logoColor=white" />
-  </a>
-</p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dongguacute&color=F6F3D6&style=flat-square&label=Profile+Views" />
-  <br>
-  <b>✨ If you like my journey, feel free to follow! ✨</b>
-  <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJueWpueG54NXN4NXN4NXN4NXN4NXN4NXN4NXN4NXN4NXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxP5O5H1C1O/giphy.gif" width="80px">
+
+🎀 Hi! I'm **Cherry**, a student developer from **Guangzhou, China**.
+
+<br>
+
+🌺 **三号线你得唔得唔好咁多人啊！🚇🥲**
+
+<br>
+
+I speak:
+
+🇨🇳 Mandarin (普通话)  
+🌺 Cantonese (粤语)  
+🌎 English  
+
+<br>
+
+## 💻 Creating & Exploring
+
+💻 Software Development  
+🎨 UI / UX Design  
+⚙️ Hardware & Microcontrollers  
+📖 Writing stories and novels  
+🌱 Exploring new technologies  
+
+<br>
+
+## 🍓 My Favorites
+
+<br>
+
+🍜 **Food**
+
+🍜 螺蛳粉 / Luosifen (River Snail Rice Noodles)
+
+🌶️ 火鸡面 / Buldak Ramen (Spicy Chicken Noodles)
+
+🍡 芋圆 / Taro Balls
+
+🍰 舒芙蕾 / Soufflé
+
+🍲 火锅 / Hot Pot
+
+🥤 可乐 / Coca-Cola
+
+<br>
+
+📺 **Anime**
+
+🕵️‍♀️ SPY×FAMILY（スパイファミリー） / 间谍过家家
+
+🍙 干物妹！うまるちゃん / Himouto! Umaru-chan / 干物妹！小埋
+
+🌌 灵笼 / Ling Cage: Incarnation
+
+<br>
+
+🎮 **Games**
+
+🚂 崩坏：星穹铁道 / Honkai: Star Rail
+
+</div>
+
+
+---
+
+<div align="center">
+
+## 🪄 Tech Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,ts,js,vue,nuxt,nextjs,nodejs,fastapi,go,flutter,vite,tailwind,docker,cloudflare,postgres,mongodb,sqlite,git,github,linux,arduino,raspberrypi,unity,blender,figma&theme=light"/>
+
+</div>
+
+
+---
+
+<div align="center">
+
+## 🍬 Featured Projects
+
+<br>
+
+<table>
+
+<tr>
+
+<td align="center" width="50%">
+
+## 🎨 SpinDeck
+
+Creative experiments and interactive experiences.
+
+<br>
+
+<a href="https://github.com/dongguacute/SpinDeck">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+
+<td align="center" width="50%">
+
+## 💡 Hilo
+
+Building ideas with software and technology.
+
+<br>
+
+<a href="https://github.com/dongguacute/Hilo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center" width="50%">
+
+## 🧬 OpenBioCard
+
+An open-source project from OpenBioCard organization.
+
+<br>
+
+<a href="https://github.com/OpenBioCard/OpenBioCard">
+<img src="https://img.shields.io/badge/OpenBioCard-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+
+<td align="center" width="50%">
+
+## 🎵 Additional Miniplayer Extension
+
+A browser extension improving media experiences.
+
+<br>
+
+<a href="https://github.com/dongguacute/Additional-Miniplayer-Extension">
+<img src="https://img.shields.io/badge/Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+---
+
+<div align="center">
+
+## 📊 GitHub Journey
+
+<br>
+
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=dongguacute&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&title_color=F48FB1&icon_color=FFB7C5&text_color=5A4035&bg_color=FFFDF8&hide_border=true&border_radius=25"/>
+
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dongguacute&layout=compact&title_color=F48FB1&text_color=5A4035&bg_color=FFFDF8&hide_border=true&border_radius=25"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/dongguacute/dongguacute/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+
+---
+
+<div align="center">
+
+## 💌 Find Me
+
+<br>
+
+<a href="https://github.com/dongguacute">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://v.douyin.com/fPdV873AnKo">
+<img src="https://img.shields.io/badge/Douyin-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@dongguacute">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://space.bilibili.com/1486590453">
+<img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=dongguacute&color=FFD86B&style=flat-square&label=Visitors"/>
+
+<br><br>
+
+🍓 **Welcome to Cherry's little digital garden** 🍓
+
+<br>
+
+✨ Keep creating, keep dreaming, keep coding ✨
+
 </div>

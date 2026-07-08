@@ -14,7 +14,7 @@
 
 <br><br>
 
-🌸 *"Turning imagination into reality with code."* 🌸
+🍓 "Creating little things, collecting happy moments." 🍓
 
 </div>
 

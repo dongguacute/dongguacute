@@ -34,7 +34,7 @@
 
 <br>
 
-🎨 Member of [MeloLab](https://github.com/MeloLabArt)
+🎨 Member of [MeloLab](https://melolab.co)
 
 <br>
 

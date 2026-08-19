@@ -34,7 +34,7 @@
 
 <br>
 
-🎨 Member of [MeloLab](https://melolab.co)
+🎨 Member of [ArtMelo](https://artmelos.com)
 
 <br>
 

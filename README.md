@@ -6,7 +6,7 @@
 
 **Student Developer · Creator**
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-FFB7C5?style=flat-square)](https://afdian.com/a/dongguacute)
+[![Sponsor](https://img.shields.io/badge/Sponsor-FFB7C5?style=flat-square)](https://ifdian.net/a/dongguacute)
 
 </div>
 
